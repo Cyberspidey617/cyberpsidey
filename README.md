@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+cyberpsidey+%F0%9F%95%B8%EF%B8%8F;3rd-year+B.Tech+Cybersecurity+student;I+trace+attackers+through+graphs;I+preserve+evidence+before+it+vanishes;Currently+weaving%3A+CyberTrace" alt="Typing intro"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=cyberpsidey&label=visitors+caught+in+the+web&color=8B5CF6&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Cyberspidey617&label=visitors+caught+in+the+web&color=8B5CF6&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -31,7 +31,7 @@ cyberpsidey@nightcity:~$ cat sidekick.txt
 <tr>
 <td width="50%" valign="top">
 
-#### 🔍 [CyberTrace](https://github.com/cyberpsidey/CyberTrace)
+#### 🔍 [CyberTrace](https://github.com/Cyberspidey617/CyberTrace)
 
 A privacy-first web app and browser extension that helps fraud victims, students, and incident-response teams **collect, preserve, and report digital evidence** after a cyber incident. Hashing, OCR, metadata extraction, indicator tracking, timelines, and one-click reports.
 
@@ -43,7 +43,7 @@ A privacy-first web app and browser extension that helps fraud victims, students
 </td>
 <td width="50%" valign="top">
 
-#### 🧭 [Attack Path Visualizer](https://github.com/cyberpsidey/attack-path-visualizer)
+#### 🧭 [Attack Path Visualizer](https://github.com/Cyberspidey617/attack-path-visualizer)
 
 An interactive GUI that maps a network as a graph and walks it with **BFS and DFS** to reveal how an attacker could move from an entry point to a critical asset. Built to make algorithms feel like real security work.
 
@@ -65,20 +65,20 @@ An interactive GUI that maps a network as a graph and walks it with **BFS and DF
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cyberpsidey&show_icons=true&hide_border=true&bg_color=1A0F3D&title_color=FF4FD8&icon_color=00F0FF&text_color=E6E0FF&ring_color=8B5CF6&rank_icon=github" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberpsidey&layout=compact&hide_border=true&bg_color=1A0F3D&title_color=FF4FD8&text_color=E6E0FF" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Cyberspidey617&show_icons=true&hide_border=true&bg_color=1A0F3D&title_color=FF4FD8&icon_color=00F0FF&text_color=E6E0FF&ring_color=8B5CF6&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberspidey617&layout=compact&hide_border=true&bg_color=1A0F3D&title_color=FF4FD8&text_color=E6E0FF" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=cyberpsidey&hide_border=true&background=1A0F3D&ring=FF4FD8&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=E6E0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8DF1&stroke=3B2A7A" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Cyberspidey617&hide_border=true&background=1A0F3D&ring=FF4FD8&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=E6E0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9D8DF1&stroke=3B2A7A" alt="Contribution streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cyberpsidey&bg_color=1A0F3D&color=E6E0FF&line=FF4FD8&point=00F0FF&area=true&area_color=8B5CF6&hide_border=true&title_color=FF4FD8" alt="Contribution graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberspidey617&bg_color=1A0F3D&color=E6E0FF&line=FF4FD8&point=00F0FF&area=true&area_color=8B5CF6&hide_border=true&title_color=FF4FD8" alt="Contribution graph"/>
 
 </div>
 
 ### 🐍 Psidey vs. the contribution grid
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberpsidey/cyberpsidey/output/snake-dark.svg"/>
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/cyberpsidey/cyberpsidey/output/snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyberspidey617/Cyberspidey617/output/snake-dark.svg"/>
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Cyberspidey617/Cyberspidey617/output/snake.svg"/>
 </picture>
 
 ### ⚡ Side quests
